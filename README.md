@@ -13,7 +13,7 @@ Math Magicians is a product that offers a built-in calculator and programming qu
 
 - [math-magician-website](#math-magician-website)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖  Math-Magician](#--math-magician)
+- [📖  math-magician-website](#--math-magician-website)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -37,15 +37,16 @@ Math Magicians is a product that offers a built-in calculator and programming qu
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Math-Magician<a name="todo-list"></a>
+# 📖  math-magician-website<a name="todo-list"></a>
 
-**Math Magicians** is a product that offers a built-in calculator and programming quotes to motivate you.
+**math-magician-website** is a product that offers a built-in calculator and programming quotes to motivate you.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - React
 - JNX
-
+- Routers
+- Jest
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -97,7 +98,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/ikkoote1/math-magician.git && cd math-magician
+  git clone https://github.com/ikoote1/math-magician-website.git && cd math-magician
 ```
 
 ### Install
@@ -143,6 +144,7 @@ The project will be deployed with Github pages. You can visit the link [here](#)
 
 - GitHub: [@githubhandle](https://github.com/ikoote1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ikoote-rasuli-479545246/)
+- Email: [Email](ikootepreim@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
