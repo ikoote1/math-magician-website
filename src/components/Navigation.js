@@ -2,7 +2,9 @@ import {Link} from 'react-router-dom'
 
 export default function Navigation(){
     return(
-        <nav>
+        <div className='navbar'>
+        <h1>Math Magicians</h1>
+            <nav>
         <ul className='nav'>
           <li>
             <Link to="/">Home</Link>
@@ -17,5 +19,6 @@ export default function Navigation(){
           </li>
         </ul>
       </nav>
+        </div>
     )
 }

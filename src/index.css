@@ -4,10 +4,16 @@
   box-sizing: border-box;
 }
 
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+
 nav{
   background: blue;
   width: 100%;
   height: 50px;
+  margin-top: 40px;
 }
 
 .nav{
@@ -24,10 +30,12 @@ nav{
   display: flex;
   flex-direction: row;
   gap: 8px;
+  font-size: 20px;
+  color: black;
 }
 
 .nav>li>Link{
-  font-size: 50px;
+ 
 }
 
 .vl {
