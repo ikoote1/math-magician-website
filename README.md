@@ -150,7 +150,7 @@ The project will be deployed with Github pages. You can visit the link [here](#)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[The project would have more features]**
+- [ ] **The project would have more features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
