@@ -14,7 +14,9 @@ export default function Calculator() {
   };
 
   return (
-    <div className="calculate">
+    <div className="cal">
+      <div className="tip"><h3>Let us do some math!</h3></div>
+      <div className="calculate">
       <div className="screen">{state.next || state.total}</div>
       <div className="btns">
         <button type="button" className="btn" onClick={() => preimClick('AC')}>AC</button>
@@ -37,7 +39,7 @@ export default function Calculator() {
         <button type="button" className="btn" onClick={() => preimClick('.')}>.</button>
         <button type="button" className="btn btn1 preim" onClick={() => preimClick('=')}>=</button>
       </div>
-
+    </div>
     </div>
   );
 }
