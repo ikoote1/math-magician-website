@@ -58,9 +58,9 @@ Math Magicians is a product that offers a built-in calculator and programming qu
 
 ### Key Features <a name="key-features"></a>
 
-- **[Ability to make calculations]**
-- **[You can navigate through the all Appication]**
-- **[A reload with the answer button]**
+- **Ability to make calculations**
+- **You can navigate through the all Appication**
+- **A reload with the answer button**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
