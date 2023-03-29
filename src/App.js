@@ -5,7 +5,8 @@ import Display from './components/DisplayQuates';
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      
+      {/* <Calculator /> */}
       <Display />
     </div>
   );
