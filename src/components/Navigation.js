@@ -7,15 +7,15 @@ export default function Navigation(){
             <nav>
         <ul className='nav'>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/" className='link'>Home</Link>
           </li>
           <li>
             <div class="vl"></div>
-            <Link to="/calculator">Calculator</Link>
+            <Link to="/calculator" className='link'>Calculator</Link>
           </li>
           <li>
             <div class="vl"></div>
-            <Link to="/Quotes">Quote</Link>
+            <Link to="/Quotes" className='link'>Quote</Link>
           </li>
         </ul>
       </nav>
