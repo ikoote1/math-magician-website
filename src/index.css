@@ -20,6 +20,21 @@ nav{
   list-style-type: none;
 }
 
+.nav>li{
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.nav>li>Link{
+  font-size: 50px;
+}
+
+.vl {
+  border-left: 3px solid black;
+  height: 20px;
+}
+
 .calculate {
   background: #f8f8f8;
   width: 320px;
