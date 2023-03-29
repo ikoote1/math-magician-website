@@ -1,6 +1,6 @@
-const home = () =>{
-    return(
-        <div>
+export default function Home(){
+    return (
+         <div className="home">
             <h1>Math Magicians</h1>
             <h2>Welcome to our page!</h2>
             <p>Are you looking for a fun and interactive way to learn and practice mathematics? Look no further than Math Magician! Our application is designed to help you sharpen your math skills and become a true math wizard.
@@ -14,4 +14,4 @@ So why wait? Start now your journey to becoming a math magician today</p>
     )
 }
 
-export default home
+
