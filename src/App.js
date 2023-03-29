@@ -1,9 +1,12 @@
 import './App.css';
+import Calculator from './components/Calculator';
+import Display from './components/DisplayQuates';
 
 function App() {
   return (
     <div className="App">
-     <h1>ikoote</h1>
+      <Calculator />
+      <Display />
     </div>
   );
 }
