@@ -8,9 +8,11 @@ export default function Navigation(){
             <Link to="/">Home</Link>
           </li>
           <li>
+            <div class="vl"></div>
             <Link to="/calculator">Calculator</Link>
           </li>
           <li>
+            <div class="vl"></div>
             <Link to="/Quotes">Quote</Link>
           </li>
         </ul>
