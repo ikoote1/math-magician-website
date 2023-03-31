@@ -65,7 +65,7 @@ Math Magicians is a product that offers a built-in calculator and programming qu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo "></a>
->Coming soon!!!
+> [Live demo](https://math-magician-website-anev.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
